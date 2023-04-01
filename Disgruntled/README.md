@@ -96,4 +96,4 @@ by putting this schedule expression in a [site](https://crontab.guru/) that conv
 ![image](https://user-images.githubusercontent.com/127505784/229295735-5ae7232a-8f20-4a0b-b66c-4ced73d40958.png)
 
 ## And that's it for today 😎 
-![image](https://user-images.githubusercontent.com/127505784/229295946-db1d7eaa-f837-4224-ad6b-260d0c8ec32b.png)
+<img align="left" src="https://media.tenor.com/uaWxECFrHIMAAAAC/detective-pikachu-investigation.gif" />
